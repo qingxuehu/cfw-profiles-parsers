@@ -9,4 +9,4 @@ DOMAIN-SUFFIX,nnn3ro.link,DIRECT
 DOMAIN-SUFFIX,n3ro.wtf,DIRECT
 DOMAIN-SUFFIX,n3ro.lol,DIRECT
 # 私人网址
-DOMAIN,file.moefbk.com,DIRECT
+DOMAIN-SUFFIX,moefbk.com,DIRECT
