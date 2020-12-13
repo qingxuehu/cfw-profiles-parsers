@@ -1,0 +1,35 @@
+ parsers:
+   - url: https://
+     yaml: 
+       prepend-rules:
+         # Steam下载
+         - DOMAIN-SUFFIX,steam-chat.com,DIRECT
+         - DOMAIN-SUFFIX,steamcontent.com,DIRECT
+         - DOMAIN-SUFFIX,steamgames.com,DIRECT
+         - DOMAIN-SUFFIX,steampowered.com,DIRECT
+         - DOMAIN-SUFFIX,steamstat.us,DIRECT
+         - DOMAIN-SUFFIX,steamstatic.com,DIRECT
+         - DOMAIN-SUFFIX,steamusercontent.com,DIRECT
+         - DOMAIN,steambroadcast.akamaized.net,DIRECT
+         - DOMAIN,steamcdn-a.akamaihd.net,DIRECT
+         - DOMAIN,steamcommunity-a.akamaihd.net,DIRECT
+         - DOMAIN,steamstore-a.akamaihd.net,DIRECT
+         - DOMAIN,steamusercontent-a.akamaihd.net,DIRECT
+         - DOMAIN,steamusercontent-a.akamaihd.net,DIRECT
+         - DOMAIN,steamuserimages-a.akamaihd.net,DIRECT
+         #哔哩哔哩
+         - DOMAIN-KEYWORD,bilibili,DIRECT
+         - DOMAIN-SUFFIX,acg.tv,DIRECT
+         - DOMAIN-SUFFIX,acgvideo.com,DIRECT
+         - DOMAIN-SUFFIX,b23.tv,DIRECT
+         - DOMAIN-SUFFIX,biliapi.com,DIRECT
+         - DOMAIN-SUFFIX,biliapi.net,DIRECT
+         - DOMAIN-SUFFIX,bilibili.com,DIRECT
+         - DOMAIN-SUFFIX,biligame.com,DIRECT
+         - DOMAIN-SUFFIX,biligame.net,DIRECT
+         #薯条机场网站及订阅网址
+         - DOMAIN-SUFFIX,114514.gay,DIRECT
+         - DOMAIN-SUFFIX,fast.airport-gov-cn.com,DIRECT
+         - DOMAIN-SUFFIX,losadhwselfff2332dasd.xyz,DIRECT
+         #订阅转换网站
+         - DOMAIN-SUFFIX,suo.yt,DIRECT
