@@ -1,11 +1,3 @@
-# Clash for Windows 配置文件预处理内容
+# 一些自己需要的代理软件附加规则
 
-记录了一些自己需要的规则
-
-目前有
-
-steam下载规则
-
-bilibili部分规则
-
-薯条机场网站及订阅网址
+目前有Clash、QuantumultX的一些附加规则
