@@ -30,6 +30,7 @@
          #薯条机场网站及订阅网址
          - DOMAIN-SUFFIX,114514.gay,DIRECT
          - DOMAIN-SUFFIX,fast.airport-gov-cn.com,DIRECT
+         - ユーザーパネル.ぜんにっぽんくうゆ.com,DIRECT
          - DOMAIN-SUFFIX,losadhwselfff2332dasd.xyz,DIRECT
          - DOMAIN-SUFFIX,fast.losadhwselfff2332dasd.xyz,DIRECT
          #订阅转换网站
