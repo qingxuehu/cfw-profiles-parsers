@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,fast.losadhwselfff2332dasd.xyz,DIRECT
 # 订阅转换网站
 DOMAIN-SUFFIX,suo.yt,DIRECT
 # N3RO机场网站及订阅网址
+DOMAIN-SUFFIX,dogess.app,DIRECT
 DOMAIN-SUFFIX,nnn3ro.link,DIRECT
 DOMAIN-SUFFIX,n3ro.wtf,DIRECT
 DOMAIN-SUFFIX,n3ro.lol,DIRECT
