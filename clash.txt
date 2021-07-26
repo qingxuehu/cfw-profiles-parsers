@@ -37,7 +37,6 @@
          - DOMAIN-SUFFIX,suo.yt,DIRECT
          - DOMAIN-SUFFIX,subcon.dlj.tf,DIRECT
          # DOGESS(N3RO)机场网站及订阅网址
-         - DOMAIN-SUFFIX,dogess.app,DIRECT
          - DOMAIN-SUFFIX,dogess.work,DIRECT
          - DOMAIN-SUFFIX,nnn3ro.link,DIRECT
          - DOMAIN-SUFFIX,n3ro.wtf,DIRECT
