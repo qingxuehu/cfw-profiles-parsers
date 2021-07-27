@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,losadhwselfff2332dasd.xyz,DIRECT
 DOMAIN-SUFFIX,fast.losadhwselfff2332dasd.xyz,DIRECT
 # 订阅转换网站
 DOMAIN-SUFFIX,suo.yt,DIRECT
+DOMAIN-SUFFIX,api.tsutsu.cc,DIRECT
 DOMAIN-SUFFIX,subcon.dlj.tf,DIRECT
 # DOGESS(N3RO)机场网站及订阅网址
 DOMAIN-SUFFIX,dogess.work,DIRECT
